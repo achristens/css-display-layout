@@ -1,0 +1,42 @@
+*{
+  font-family: "Arial", sans-serif;
+  box-sizing: border-box;
+}
+
+h1{
+  margin: 0;
+  color: #fff;
+  background-color: #1f1f1f;
+  text-align: center;
+  padding: 10px;
+}
+
+nav{
+  text-align: center;
+}
+
+ul{
+  margin-top: 10px;
+}
+
+li{
+  list-style: none;
+  display: inline-block;
+}
+
+li a {
+  background-color: #D3D3D3;
+  color: #fff;
+  text-decoration: none;
+  padding: 7px;
+  font-weight: bold;
+}
+
+.section-one{
+  background-color: #85FED1;
+  padding: 0.3px 15px;
+}
+
+.span-1{
+  font-weight: bold;
+}
