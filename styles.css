@@ -35,8 +35,20 @@ li a {
 .section-one{
   background-color: #85FED1;
   padding: 0.3px 15px;
+  margin-bottom: 13px;
 }
 
 .span-1{
   font-weight: bold;
+  text-decoration: underline yellow;
+}
+
+.picture{
+  display: inline-block;
+}
+
+.edit{
+  text-align: center;
+  background-color: goldenrod;
+  padding: 5px;
 }
